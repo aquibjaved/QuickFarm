@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="my_bookings_fragment">My bookings</string>
+    <string name="my_listings_fragment">My listings</string>
+    <string name="all_listings_fragment">All listings</string>
+</resources>
